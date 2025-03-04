@@ -1,0 +1,18 @@
+{
+  "name": "mynotife",
+  "version": "1.0.0",
+  "description": "my notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mynotif"
+  ],
+  "author": "zha",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "node-notifier": "^10.0.1"
+  }
+}
