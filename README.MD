@@ -23,6 +23,7 @@ node index.js 25 5
 _"Contoh di atas akan menjalankan 25 menit kerja dan 5 menit istirahat, lalu mengulang siklusnya secara otomatis."_
 
 2.  Saat timer berjalan, waktu akan ditampilkan di terminal, dan notifikasi akan muncul saat waktunya beralih antara kerja dan istirahat.
+
     ![Tampilan Terminal](./assets/contohlog.png)
 
 Aplikasi ini membantu mengelola waktu kerja dan istirahat secara otomatis agar tetap fokus dan produktif!
